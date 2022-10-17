@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "coords": [-46.914010659068, -23.445855501268],
+    "title": "Igreja Matriz",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "https://estudiosarasa.com.br/wp-content/uploads/2017/04/IMG_2014-984x656.jpg",
+      "alt": "Igreja Matriz"
+    },
+    "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+  },
+  {
+    "id": 2,
+    "coords": [-46.914135381788, -23.445316594518],
+    "title": "Centro de Memória e Integração Cultural - Cemic",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "http://diariodealphaville.com.br/wordpress/wp-content/uploads/2014/06/1.centro-de-memoria-parnaiba.jpg",
+      "alt": "Centro de Memória e Integração Cultural - Cemic"
+    },
+    "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+  },
+  {
+    "id": 3,
+    "coords": [-46.914294302672, -23.445529450642],
+    "title": "Casarão Monsenhor Paulo Florêncio da Silveira Camargo",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Casar%C3%A3o_Monsenhor_Paulo_Flor%C3%AAncio_da_Silveira_Camargo_01.jpg",
+      "alt": "Casarão Monsenhor Paulo Florêncio da Silveira Camargo"
+    },
+    "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+  },
+  {
+    "id": 4,
+    "coords": [-46.914278209418, -23.445643876048],
+    "title": "Museu Anhanguera",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "https://www.cidadeecultura.com/wp-content/uploads/2019/08/Santana-do-Parnaiba-Museu-Anhanguera-ft-M-Briones-X-web.jpg",
+      "alt": "Museu Anhanguera"
+    },
+    "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+  },
+  {
+    "id": 5,
+    "coords": [-46.912276610941, -23.44423508324],
+    "title": "Monumento aos Bandeirantes",
+    "small": "Endereço, número - bairro",
+    "img": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Webysther_20190718131851_-_Santana_de_Parna%C3%ADba.jpg",
+      "alt": "Monumento aos Bandeirantes"
+    },
+    "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+  }
+]
